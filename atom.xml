@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>MTH307 Discrete Mathematics</title>
+    <link href="http://sejdm.github.io/mth307/atom.xml" rel="self" />
+    <link href="http://sejdm.github.io/mth307" />
+    <id>http://sejdm.github.io/mth307/atom.xml</id>
+    <author>
+        <name>Shane D'Mello</name>
+        <email>shane@iisermohali.ac.in</email>
+    </author>
+    <updated>2022-01-15T02:26:38+5:30</updated>
+    <entry>
+    <title>Exercise sheet 1</title>
+    <link href="http://sejdm.github.io/mth307/assignments/2022-01-15-exercise01.html" />
+    <id>http://sejdm.github.io/mth307/assignments/2022-01-15-exercise01.html</id>
+    <published>2022-01-15T00:00:00Z</published>
+    <updated>2022-01-15T02:26:38+5:30</updated>
+    <summary type="html"><![CDATA[Exercise sheet 1 has been posted.]]></summary>
+</entry>
+<entry>
+    <title>Lecture slide 4</title>
+    <link href="http://sejdm.github.io/mth307/texslides/2022-01-11-lecture04.pdf" />
+    <id>http://sejdm.github.io/mth307/texslides/2022-01-11-lecture04.pdf</id>
+    <published>2022-01-11T00:00:00Z</published>
+    <updated>2022-01-15T01:52:41+5:30</updated>
+    <summary type="html"><![CDATA[Lecture slide 4 has been posted.]]></summary>
+</entry>
+<entry>
+    <title>Lecture slide 3</title>
+    <link href="http://sejdm.github.io/mth307/texslides/2022-01-10-lecture03.pdf" />
+    <id>http://sejdm.github.io/mth307/texslides/2022-01-10-lecture03.pdf</id>
+    <published>2022-01-10T00:00:00Z</published>
+    <updated>2022-01-15T01:51:43+5:30</updated>
+    <summary type="html"><![CDATA[Lecture slide 3 has been posted.]]></summary>
+</entry>
+<entry>
+    <title>Lecture slide 2</title>
+    <link href="http://sejdm.github.io/mth307/texslides/2022-01-07-lecture02.pdf" />
+    <id>http://sejdm.github.io/mth307/texslides/2022-01-07-lecture02.pdf</id>
+    <published>2022-01-07T00:00:00Z</published>
+    <updated>2022-01-15T01:51:05+5:30</updated>
+    <summary type="html"><![CDATA[Lecture slide 2 has been posted.]]></summary>
+</entry>
+<entry>
+    <title>Lecture slide 1</title>
+    <link href="http://sejdm.github.io/mth307/texslides/2022-01-06-lecture01.pdf" />
+    <id>http://sejdm.github.io/mth307/texslides/2022-01-06-lecture01.pdf</id>
+    <published>2022-01-06T00:00:00Z</published>
+    <updated>2022-01-15T01:49:57+5:30</updated>
+    <summary type="html"><![CDATA[Lecture slide 1 has been posted.]]></summary>
+</entry>
+
+</feed>
