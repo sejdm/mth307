@@ -7,8 +7,16 @@
         <description><![CDATA[Get exercises and announcements]]></description>
         <atom:link href="http://sejdm.github.io/mth307/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>2022-02-12T12:23:56+5:30</lastBuildDate>
+        <lastBuildDate>2022-02-13T01:59:59+5:30</lastBuildDate>
         <item>
+    <title>Exercise sheet 3</title>
+    <link>http://sejdm.github.io/mth307/assignments/2022-01-12-exercise03.html</link>
+    <description><![CDATA[Exercise sheet 3 has been posted.]]></description>
+    <pubDate>Wed, 12 Jan 2022 00:00:00 UT</pubDate>
+    <guid>http://sejdm.github.io/mth307/assignments/2022-01-12-exercise03.html</guid>
+    <dc:creator>Shane D'Mello</dc:creator>
+</item>
+<item>
     <title>Lecture slide 16</title>
     <link>http://sejdm.github.io/mth307/texslides/2022-02-11-lecture16.pdf</link>
     <description><![CDATA[Lecture slide 16 has been posted.]]></description>
