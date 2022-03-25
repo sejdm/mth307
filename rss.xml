@@ -7,8 +7,17 @@
         <description><![CDATA[Get exercises and announcements]]></description>
         <atom:link href="http://sejdm.github.io/mth307/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>2022-03-25T19:08:19+5:30</lastBuildDate>
+        <lastBuildDate>2022-03-25T19:51:24+5:30</lastBuildDate>
         <item>
+    <title>Announcement</title>
+    <link>http://sejdm.github.io/mth307/announcements/2022-03-25.html</link>
+    <description><![CDATA[<div class="announcement"><p>There will be a <strong>QUIZ</strong> on Monday, the 28th of March on whatever was covered in graph theory until now.</p></div> <br /><span class="date">Last modified: 07:51 PM - 25 March, 2022 </span>
+]]></description>
+    <pubDate>Fri, 25 Mar 2022 00:00:00 UT</pubDate>
+    <guid>http://sejdm.github.io/mth307/announcements/2022-03-25.html</guid>
+    <dc:creator>Shane D'Mello</dc:creator>
+</item>
+<item>
     <title>Exercise sheet 5</title>
     <link>http://sejdm.github.io/mth307/assignments/2022-03-25-exercise05.html</link>
     <description><![CDATA[Exercise sheet 5 has been posted.]]></description>
